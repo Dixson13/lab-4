@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1590110271 source:c:\users\volod\desktop\СИ проекты\singlylinkedlist\singlylinkedlist.cpp
+	"SinglyLinkedList.h"
+
+1590110805 c:\users\volod\desktop\СИ проекты\singlylinkedlist\singlylinkedlist.h
+	<iostream>
+
+1590110805 source:c:\users\volod\desktop\СИ проекты\singlylinkedlist\main.cpp
+	<iostream>
+	"SinglyLinkedList.cpp"
+	"SinglyLinkedList.h"
+
+1590110271 c:\users\volod\desktop\СИ проекты\singlylinkedlist\singlylinkedlist.cpp
+	"SinglyLinkedList.h"
+
